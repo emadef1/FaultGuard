@@ -11,10 +11,18 @@
   <p align="center">
     A Robust Framework for Resilient Fault Prediction in Smart Electrical Grids
     <br />
-    <a href="https://github.com/emadef1/FaultGuard/tree/main"><strong>Paper in progress »</strong></a>
+    <a href="https://arxiv.org/abs/2403.17494"><strong>Preprint Available »</strong></a>
     <br />
     <br />
-    <a href="">Anonymous Authors</a>
+    <a href="https://www.dei.unipd.it/persona/1373bd29c9ef0140e39d53ec9add14d2">Emad Efatinasab</a>
+    ·
+    <a href="https://www.math.unipd.it/~fmarchio/">Francesco Marchiori</a>
+    ·
+    <a href="https://www.math.unipd.it/~abrighen/">Alessandro Brighente</a>
+    ·
+    <a href="https://www.dei.unipd.it/persona/95DDDDA0C518D43822ADC0338BD38073">Mirco Rampazzo</a>
+    ·
+    <a href="https://www.math.unipd.it/~conti/">Mauro Conti</a>
   </p>
 </div>
 
@@ -57,7 +65,6 @@ To execute the attacks or to deploy the FaultGuard framework, start by cloning t
 git clone https://github.com/emadef1/FaultGuard.git
 cd FaultGuard
 ```
-<sup>NOTE: if you're accessing this data from the anonymized repository, the above command might not work..</sup>
 
 Then, install the required Python packages by running:
 
