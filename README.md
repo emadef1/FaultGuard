@@ -34,6 +34,9 @@
       <a href="#abstract">Abstract</a>
     </li>
     <li>
+      <a href="#citation">Citation</a>
+    </li>
+    <li>
       <a href="#usage">Usage</a>
     </li>
     <li>
@@ -53,6 +56,24 @@
 ## 🧩 Abstract
 
 >Ensuring the reliability of energy distribution networks is paramount for uninterrupted provision, a challenge further compounded by the introduction of new sustainable energy sources to the grid. Promptly addressing faults becomes critical for optimal energy consumption, quick restoration, and overall customer satisfaction in this evolving landscape. While Machine Learning approaches have been applied in smart grids for fault detection, the robustness and security of these systems need thorough exploration. The vulnerability of these systems to adversarial attacks underscores the need for a rigorous examination of their resilience and the implementation of robust security measures. To address these concerns, we introduce **FaultGuard**, a resilient framework for fault type and zone classification tasks. To ensure the security of our system, we employ an Anomaly Detection System (ADS) leveraging a novel Generative Adversarial Network training layer to identify attacks. Furthermore, we propose a low-complexity fault prediction model and an online adversarial training technique to enhance robustness. We comprehensively evaluate the framework's performance against various adversarial attacks using the publicly available IEEE13-AdvAttack dataset, a simulated dataset based on the IEEE-13 test node feeder. Our model outclasses the state-of-the-art with an accuracy of up to 0.958, and our ADS shows attack detection capabilities with an accuracy of up to 1.000. Moreover, we demonstrate how our novel training layers drastically increase performances across the whole framework, with a mean increase of 154.18% in ADS accuracy and 118.14% in model accuracy. With our research, we contribute to advancing reliable and secure smart grid applications, ensuring uninterrupted and secure energy delivery to consumers, especially in the face of challenges posed by integrating new sustainable energy sources.
+
+<p align="right"><a href="#top">(back to top)</a></p>
+<div id="citation"></div>
+
+## 🗣️ Citation
+
+Please, cite this work when referring to FaultGuard.
+
+```
+@misc{efatinasab2024faultguard,
+  title={FaultGuard: A Generative Approach to Resilient Fault Prediction in Smart Electrical Grids}, 
+  author={Emad Efatinasab and Francesco Marchiori and Alessandro Brighente and Mirco Rampazzo and Mauro Conti},
+  year={2024},
+  eprint={2403.17494},
+  archivePrefix={arXiv},
+  primaryClass={cs.CR}
+}
+```
 
 <p align="right"><a href="#top">(back to top)</a></p>
 <div id="usage"></div>
