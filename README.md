@@ -11,7 +11,7 @@
   <p align="center">
     A Robust Framework for Resilient Fault Prediction in Smart Electrical Grids
     <br />
-    <a href="https://arxiv.org/abs/2403.17494"><strong>Preprint Available »</strong></a>
+    <a href="https://link.springer.com/chapter/10.1007/978-3-031-64171-8_26"><strong>Paper Available »</strong></a>
     <br />
     <br />
     <a href="https://www.dei.unipd.it/persona/1373bd29c9ef0140e39d53ec9add14d2">Emad Efatinasab</a>
