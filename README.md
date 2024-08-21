@@ -65,13 +65,24 @@
 Please, cite this work when referring to FaultGuard.
 
 ```
-@misc{efatinasab2024faultguard,
-  title={FaultGuard: A Generative Approach to Resilient Fault Prediction in Smart Electrical Grids}, 
-  author={Emad Efatinasab and Francesco Marchiori and Alessandro Brighente and Mirco Rampazzo and Mauro Conti},
-  year={2024},
-  eprint={2403.17494},
-  archivePrefix={arXiv},
-  primaryClass={cs.CR}
+@InProceedings{10.1007/978-3-031-64171-8_26,
+author="Efatinasab, Emad
+and Marchiori, Francesco
+and Brighente, Alessandro
+and Rampazzo, Mirco
+and Conti, Mauro",
+editor="Maggi, Federico
+and Egele, Manuel
+and Payer, Mathias
+and Carminati, Michele",
+title="FaultGuard: A Generative Approach to Resilient Fault Prediction in Smart Electrical Grids",
+booktitle="Detection of Intrusions and Malware, and Vulnerability Assessment",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="503--524",
+abstract="Predicting and classifying faults in electricity networks is crucial for uninterrupted provision and keeping maintenance costs at a minimum. Thanks to the advancements in the field provided by the smart grid, several data-driven approaches have been proposed in the literature to tackle fault prediction tasks. Implementing these systems brought several improvements, such as optimal energy consumption and quick restoration. Thus, they have become an essential component of the smart grid. However, the robustness and security of these systems against adversarial attacks have not yet been extensively investigated. These attacks can impair the whole grid and cause additional damage to the infrastructure, deceiving fault detection systems and disrupting restoration.",
+isbn="978-3-031-64171-8"
 }
 ```
 
